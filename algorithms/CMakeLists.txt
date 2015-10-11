@@ -1,0 +1,1 @@
+add_library(algorithms binary_search.C)
